@@ -1,7 +1,7 @@
 {
   "spider": "./spider.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
+  "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
   "sites": [
     {
       "key": "Nostr",
