@@ -30,6 +30,13 @@
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
         },
 		{
+            "key": "搜狗",
+            "name": "🐬搜狗视频",
+            "type": 3,
+            "api": "http://jar.jsy666.xyz/js/lib/drpy2.min.js",
+            "ext": "http://jar.jsy666.xyz/js/caigou.js"
+        },
+		{
             "key": "低端",
             "name": "🛣┃低端┃影视",
             "type": 3,
