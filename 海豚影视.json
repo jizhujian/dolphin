@@ -316,10 +316,10 @@
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
 		{
-            "key": "黑料X",
-            "name": "🐬黑料X｜🔞",
+            "key": "百万",
+            "name": "🐬百万｜🔞",
             "type": 1,
-            "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+            "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 0
