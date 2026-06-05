@@ -633,13 +633,13 @@
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
         {
-            "name": "🐬4GTV(梯子台湾节点)",
+            "name": "🐬4GTV(梯子台湾节点)720p",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
         },
 	    {
-            "name": "🐬4GTV2",
+            "name": "🐬4GTV(梯子任何节点)1080p",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
