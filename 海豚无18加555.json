@@ -46,6 +46,30 @@
           "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
 		{
+            "key": "leo_danmaku",
+            "name": "LEO | 弹幕",
+            "type": 3,
+            "api": "csp_DanmakuSpider",
+            "searchable": 1,
+            "changeable": 0,
+            "index": 1,
+   "jar": "https://gh-proxy.org/https://github.com/Silent1566/CatVodSpider/raw/refs/heads/main/jar/danmu.jar",
+            "ext": {
+                "apiUrls": [
+                    "https://dm.660505.xyz:8443/a123456|W佬",
+"https://danmaku.banye.tech:17777/87654321"
+                ],
+                "autoPushEnabled": true,
+                "silentMode": true,
+                "danmakuStyle": "经典模式",
+                "proxyPort": 5575,
+                "lpAlpha": 0.9,
+                "lpWidth": 0.9,
+                "lpHeight": 0.85,
+                "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
+            }
+        },
+		{
 			"key": "fY",
 			"name": "🐬枫叶影院(关梯子使用)",
 			"type": 3,
