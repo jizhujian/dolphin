@@ -496,6 +496,17 @@
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
 		{
+            "key": "捡的音乐",
+            "name": "🐬爱听音乐",
+            "type": 3,
+            "api": "csp_Music1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/jar_js/Music1.json",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/jar_js/so.jar",
+            "filterable": 1
+        },
+		{
 			"key": "shjb",
 			"name": "🐬色播聚合.py｜🔞[成人]",
 			"type": 3,
