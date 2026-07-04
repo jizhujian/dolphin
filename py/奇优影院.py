@@ -24,6 +24,7 @@ class Spider(Spider):
             "电视剧": "2", 
             "动漫": "3",
             "综艺": "4"
+            "理论片": "5"
         }
         classes = [{'type_name': k, 'type_id': v} for k, v in cateManual.items()]
         result['class'] = classes
@@ -40,7 +41,7 @@ class Spider(Spider):
     
     def homeVideoContent(self):
         try:
-            rsp = self.fetch("http://qiyoudy5.com/")
+            rsp = self.fetch("https://www.qivod.com/")
             root = self.parse_html(rsp.content)
             if not root:
                 return {'list': []}
