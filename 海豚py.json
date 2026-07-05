@@ -394,7 +394,30 @@
 			"name": "🐬麻豆免费在线播放.py｜🔞",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻豆免费在线播放.py"
-		}
+		}，
+		{
+   "key": "leo_danmaku",
+   "name": "LEO | 弹幕",
+   "type": 3,
+   "jar": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/jar_js/弹幕.jar",
+   "api": "csp_DanmakuSpider",
+   "searchable": 1,
+   "changeable": 0,
+   "index": 1,
+   "ext": {
+    "apiUrls": [
+    "http://192.168.31.22:9321/87654321",
+    ],
+    "autoPushEnabled": true,
+    "silentMode": true,
+    "danmakuStyle": "经典模式",
+    "proxyPort": 5575,
+    "lpAlpha": 0.9,
+    "lpWidth": 0.9,
+    "lpHeight": 0.85,
+    "titleMappingsUrl": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚py.json"
+   }
+  }
     ],
     "parses": [ 
 		{
