@@ -21,7 +21,6 @@ class Spider(Spider):
     def init(self, extend="{}"):
         origin = 'https://zh.stripchat.com'
         self.headers = {
-            'Referer': f"{origin}/",
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0'
         }
         self.stripchat_key = self.decode_key_compact()
@@ -178,7 +177,7 @@ class Spider(Spider):
                 url.append(qn)
                 url.append(proxy_url)
         result = {}
-        result[]
+        result["url"] = url
         result["parse"] = '0'
         result["contentType"] = ''
         result["header"] = self.headers
