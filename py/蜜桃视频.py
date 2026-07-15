@@ -1,4 +1,4 @@
-# 蜜桃视频 类型爬虫
+# 蜜桃视频 T3 类型爬虫
 # 网站: https://www.nht966hht.vip:9527
 # API: AES-128-CBC (ZeroPadding) + MD5 签名加密
 
